@@ -1,0 +1,51 @@
+
+.header{
+    color: white;
+    height: 15vh;
+    background-image: url(https://us.123rf.com/450wm/staras/staras2306/staras230600258/206205379-muchos-deliciosos-pasteles-dulces-pasteles-panecillos-y-magdalenas-con-frutas-frescas-y-bayas.jpg?ver=6)
+}
+
+h1{
+    padding: 0.5%;
+}
+
+h2{
+    padding: 0.5%;
+}
+
+.main{
+    height: 75vh;
+    background-image: url(https://img.freepik.com/vector-premium/patron-costuras-elementos-panaderia-pasteleria-postre-fondo-doodle-vectorial_647682-248.jpg);
+}
+
+table{
+    background: bisque;
+    border: 1.5px solid black;
+    padding: 0.5%;
+}
+
+td{
+    border: 1.5px solid black;
+    padding: 0.5%;
+}
+
+th{
+    border: 1.5px solid black;
+    padding: 0.5%;
+}
+
+.footer{
+    color: black;
+    height: 10vh;
+    background-color: honeydew;
+}
+
+
+h3{
+    padding: 0.5%;
+}
+
+p{ 
+    padding: 0.5%;
+}
+
